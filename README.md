@@ -1,3 +1,3 @@
-This repository is about learning c language for 2nd sem 
+<h6>This repository contains program that I learnt in 2nd Sem for my labs :)</h6>
 <br>
-I hope i will learn much better 
+
